@@ -1,6 +1,10 @@
 # Grain3D v1.2
 A (very cool) 3D rasterizer using TI-Basic\
-Models are stored through a Matricies!
+Models are stored through a Matricies!\
+![Steps Gif](media/stepsCalcCE.gif)
+![Cube Gif](media/cubeCalcCE.gif)
+![Pyramid Gif](media/pyramidCalcCE.gif)
+![Filled Cube](media/cubeCalcCE.png)
 ## Controls
 KEY | Control
 -- | --
@@ -19,3 +23,6 @@ Row | 1 | 2 | 3 | 4
 2 to Last Vertex | X | Y | Z | Null
 Last Vertex+1 to Last Edge | Vertex Row | Vertex Row | Color | Null
 Last Edge+1 to End | Vertex Row | Vertex Row | Vertex Row | Color
+## Other images
+![Wireframe Cube](media/cubeyCalcCE.png)
+![Filled Pyramid](media/pyramidCalcCE.png)
